@@ -18,6 +18,6 @@
 
 8 .  Try to **update** a column 3 value with 8 wherever you have value equal to 2 
 
-9 . Try to **delete table **
+9 . Try to **delete table**
 
 10 . Try to **delete database**
