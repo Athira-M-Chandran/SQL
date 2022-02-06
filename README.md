@@ -12,9 +12,9 @@
 
 6 . Try to group all the data with column1 AND count occurences of each and every record based on column1 value 
 
-7 . Try to filter a record where column 3 value will be 4 .
+7 . Try to filter a record where column 3 value will be 4.
 
-8.  Try to update a column 3 value with 8 wherever you have value equal to 2 
+8 .  Try to update a column 3 value with 8 wherever you have value equal to 2 
 
 9 . Try to delete table 
 
