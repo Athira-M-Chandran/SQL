@@ -21,3 +21,13 @@
 9 . Try to **delete table**
 
 10 . Try to **delete database**
+
+### NoSQL
+
+#### MongoDB
+
+if error occured : try with
+
+!pip install dnspython 
+
+tls = True , tlsAllowInvalidCertificates = True
